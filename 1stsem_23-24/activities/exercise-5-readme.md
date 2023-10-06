@@ -56,5 +56,6 @@
 5. Add a rule using contextual selectors that makes the paragraphs in the intro class italic.
 6. Finally, we’ll add a softer color to the menu item names (in ul elements). Use any RGB colors.
 
+Output:
 ![Figure 5](/1stsem_23-24/activities/exercise-5.png)
 
