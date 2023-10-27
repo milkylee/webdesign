@@ -13,6 +13,8 @@
 Initial Output:
 ![Figure 6.0](/1stsem_23-24/activities/exercise6-initial.png)
 
+4. Fix it by applying correct property and values to achieve the final output.
+
 Final Output:
 ![Figure 6.1](/1stsem_23-24/activities/exercise6-final.png)
 
